@@ -1,9 +1,9 @@
 {
     "id": "EE6C056C",
-    "path": "~/4.sem/Ma-223 Statistikk/exam/regression/multreg.R",
+    "path": "C:/Users/tobia/repositories/Ma-223-Eksamensprosjekt/multreg.R",
     "project_path": "multreg.R",
     "type": "r_source",
-    "hash": "3237518002",
+    "hash": "3722716261",
     "contents": "",
     "dirty": false,
     "created": 1744562491396.0,
@@ -13,15 +13,16 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "14,33",
-        "scrollLine": "0"
+        "cursorPosition": "27,18",
+        "scrollLine": "0",
+        "docOutlineVisible": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1745688629,
+    "lastKnownWriteTime": 1745941952,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1745688629738,
+    "last_content_update": 1745941952852,
     "read_only": false,
     "read_only_alternatives": []
 }
